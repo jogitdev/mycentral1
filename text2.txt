@@ -1,1 +1,3 @@
 Its a second text file created in devops 
+
+Welcome to DEV OPS course 
